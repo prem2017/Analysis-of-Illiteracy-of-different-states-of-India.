@@ -19,8 +19,8 @@ woman_parity_in_education <- read.csv('5_state_wise_woman_going_to_higher_educat
 unemployment_rate <- read.csv('6_UnemploymentRates2015-16.csv', header = TRUE, comment.char = '#')
 
 # Extra data could be used for association of the results
-et0 <- read.csv('et0_literacy_rate.csv', header = TRUE, comment.char = '#')
-et1 <- read.csv('et1_Sector-Wise Expenditure on Education by Central.csv', header = TRUE, comment.char = '#') # et1_Sector-Wise Expenditure on Education by Central.csv
+# et0 <- read.csv('et0_literacy_rate.csv', header = TRUE, comment.char = '#')
+# et1 <- read.csv('et1_Sector-Wise Expenditure on Education by Central.csv', header = TRUE, comment.char = '#') # et1_Sector-Wise Expenditure on Education by Central.csv
 # et2 <- read.csv('et2_Sector-Wise_Expenditure_On_Education_By_Central_And_State_Governments_Revenue_Account.csv', header = TRUE, comment.char = '#')
 
 
