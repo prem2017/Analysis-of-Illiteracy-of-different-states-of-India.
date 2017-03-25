@@ -1,0 +1,38 @@
+# Column 3_Nominal GDP(INR): Amount in lac crore, Column 4_,Nominal GDP(USD): Amount ins dollar
+States,Rank,NominalGDP_INR,NominalGDP_USD,Data year
+Maharashtra,1,22.03,330,2016-17
+Tamil Nadu,2,13.69,208,2016-17
+Uttar Pradesh,3,12.37,184,2016-17
+Gujarat,4,10.94,167,2016-17
+West Bengal,5,9.20,137,2015-16
+Karnataka,6,9.08,130,2015-16
+Rajasthan,7,7.67,110,2016-17
+Kerala,8,7.48,110,2017-18
+Madhya Pradesh,9,7.35,110,2017-18
+Andhra Pradesh,10,13.54,100,2016-17
+Bihar,12,6.32,94,2017-18
+Delhi,13,6.22,92,2016-17
+Haryana,14,4.42,66,2014-15
+Orrisa,15,4.12,61,2017-18
+Punjab,16,4.09,61,2015-16
+Chhattisgarh,17,2.77,41,2017-18
+Assam,18,2.58,38,2017-18
+Jharkhand,19,2.20,33,2014-15
+Uttaranchal,20,1.85,28,2015-16
+Jammu and Kashmir,21,1.32,20,2016-17
+Himachal Pradesh,22,1.24,19,2016-17
+Goa,23,0.45548,6.8,2014-15
+Chandigarh,24,0.29368,4.4,2014-15
+Meghalaya,25,0.27305,4.1,2015-16
+Tripura,26,0.26810,4.0,2013-14
+Puducherry,27,0.23747,3.5,2014-15
+Arunachal Pradesh,28,0.19492,2.9,2015-16
+Nagaland,29,0.17727,2.6,2014-15
+Manipur,30,0.14324,2.1,2013-14
+Sikkim,31,0.12377,1.8,2013-14
+Mizoram,32,0.11458,1.7,2014-15
+Andaman and Nicobar Islands,33,0.06150,0.91,2013-14
+Dadra and Nagar Haveli,34,0.02440,0.36,2014-15
+Daman and Diu,35,0.01059,0.16,2014-15
+Lakshadweep,36,0.00407,0.060,2014-15
+India,6,153,2175,2016-17
